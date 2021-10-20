@@ -7,7 +7,7 @@ I am Jaya Krishna, currently a First Year Graduate Student at Arizona State Univ
 I would summarize myself as a person curious about technologies, travelling and exploring cultures. My objective in life is to keep learning from my mistakes and refine myself as much as I can. I believe in making life fun and exciting with code and visualization. I love exploring more in the Virtual Space - Cloud and also learning more about data.
 
 Technology domain I work on...
-Data Engineering ~ Business Analytics ~ Software Development 
+Data Engineering ~ Business Intelligence ~ Software Development 
 
 What do I do apart from technology
 I love investing time in exploring nature🌻, Tree-planting 🌱.
